@@ -10,7 +10,8 @@
 
 Написать функцию, которая принимает два целых числа и возвращает их среднее значение.
 
-```package main
+```
+package main
 
 import "fmt"
 
@@ -84,3 +85,4 @@ func AverageValue(a int, b int) {
 	fmt.Print("\ntask_6\n", "average value: ", multVar)
 }
 ```
+![Image alt](https://github.com/Reilna/2lab/blob/main/lab_2/lab2.png)
